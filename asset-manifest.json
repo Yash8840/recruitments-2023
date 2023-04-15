@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/recruitments-2023/static/css/main.484f8733.css",
+    "main.js": "/recruitments-2023/static/js/main.badd5383.js",
+    "static/js/787.3bf0dcc2.chunk.js": "/recruitments-2023/static/js/787.3bf0dcc2.chunk.js",
+    "static/media/background-3.png": "/recruitments-2023/static/media/background-3.40ebd6e9017a1aad1ea9.png",
+    "static/media/cuate.png": "/recruitments-2023/static/media/cuate.c37f777e2d87011f6a49.png",
+    "static/media/minion.png": "/recruitments-2023/static/media/minion.09a499e39ed2ff1ddffc.png",
+    "static/media/Img4.png": "/recruitments-2023/static/media/Img4.5c1d3fe8d574efc46853.png",
+    "static/media/logo.png": "/recruitments-2023/static/media/logo.28f6d593d2af5bb42189.png",
+    "static/media/Img2.png": "/recruitments-2023/static/media/Img2.fc8b41b3a545be9f5776.png",
+    "static/media/Img1.png": "/recruitments-2023/static/media/Img1.54c7559adfea794003af.png",
+    "index.html": "/recruitments-2023/index.html",
+    "main.484f8733.css.map": "/recruitments-2023/static/css/main.484f8733.css.map",
+    "main.badd5383.js.map": "/recruitments-2023/static/js/main.badd5383.js.map",
+    "787.3bf0dcc2.chunk.js.map": "/recruitments-2023/static/js/787.3bf0dcc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.484f8733.css",
+    "static/js/main.badd5383.js"
+  ]
+}
