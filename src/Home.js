@@ -17,7 +17,7 @@ const Home = () => {
           <div className="content">
             <ul className="content-ul">
               
-              <li>You are required to choose any one task from <a href="https://docs.google.com/document/d/188dap7BANwUKOZbesbJk_gvrh-YrXPiFVN4YPQ17Yj4/edit?usp=sharing" target="#"><span className="lalwa">here</span></a></li>
+              <li>You are required to choose <span style={{color: 'blue'}}>any one</span>  task from <a href="https://docs.google.com/document/d/188dap7BANwUKOZbesbJk_gvrh-YrXPiFVN4YPQ17Yj4/edit?usp=sharing" target="#"><span className="lalwa">here</span></a></li>
               <li>
                 The task deadline is 1pm IST on 16-02-2003
               </li>
