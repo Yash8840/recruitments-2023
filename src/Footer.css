@@ -1,0 +1,44 @@
+.footer{
+  width: 100vw;
+  height: 30px;
+  background-color: #3E3C3A;
+  justify-content: center;
+  
+}
+.footer img{
+  width: 25px;
+  height: 25px;
+  
+  
+}
+.footer-div{
+  position: relative;
+  /* left: 40%; */
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+}
+.footer-div span{
+  color: #ffffff;
+  /* position: relative; */
+  /* bottom: 7px; */
+}
+.facebook{
+  zoom: 105%;
+}
+.footer-div img{
+  margin-right: 4px;
+}
+/* @media screen and (max-width: 665px) {
+
+.footer {
+  width: 100vw;
+  height: 30px;
+  background-color: #3E3C3A;
+  
+}
+.footer-div{
+  justify-content: center;
+  display: flex;
+}
+} */

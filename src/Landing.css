@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Poppins:wght@500&family=Sedgwick+Ave+Display&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.landing{
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  padding-top: 40px;
+  text-align: center;
+  margin-bottom: 140px;
+
+}
+.logo img{
+  width: 200px;
+  height: 100px;
+}
+.recruitment h2{
+  /* font-size: 35px; */
+  font-family: 'Dancing Script', cursive;
+}
+.type{
+  /* font-family: 'Dancing Script', cursive; */
+  font-family: 'Bebas Neue';
+  
+}
+
+.recruitment{
+  margin-bottom: 60px;
+}
+.minion img{
+  height: 220px;
+}
+.recruitment .type{
+  font-size: 4.5rem;
+  color: #ffffff;
+  font-weight: 500;
+}
+.mew{
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+.invent{
+  color: red;
+}
+.inspire{
+  color: green;
+}
+.innovate{
+  color: rgb(31, 134, 168);
+}
+@media screen and (max-width: 665px) {
+  .recruitment .type{
+    font-size: 2.25rem;
+    color: #ffffff;
+    font-weight: 600;
+  }
+  .minion img {
+    height: 148px;
+}
+}
