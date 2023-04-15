@@ -19,7 +19,7 @@ const Home = () => {
               
               <li>You are required to choose <span style={{color: 'blue'}}>any one</span>  task from <a href="https://docs.google.com/document/d/188dap7BANwUKOZbesbJk_gvrh-YrXPiFVN4YPQ17Yj4/edit?usp=sharing" target="#"><span className="lalwa">here</span></a></li>
               <li>
-                The task deadline is 1pm IST on 16-02-2003
+                The task deadline is 1pm IST on 16-04-2023
               </li>
               <li>Task should be submitted below </li>
               
@@ -45,7 +45,7 @@ const Home = () => {
               <li>Your site must be responsive to different screen sizes.</li>
 
               <li>You can find the assets <a href="https://drive.google.com/drive/folders/1xLKQLzGiRzqcM8C3b6Tq2-bGpHHrQsuS?usp=sharing" target="#"><span className="lalwa">here</span></a></li>
-              <li>The task deadline is 1pm IST on 16-02-2023.</li>
+              <li>The task deadline is 1pm IST on 16-04-2023.</li>
               <li>
                 P.S. You get extra points for hosting your site on dedicated
                 platforms like <a href="https://www.netlify.com/" target="#">netlify</a> and{" "}
@@ -68,7 +68,7 @@ const Home = () => {
               <li>The contest will be held on Hackerank.com .</li>
               <li>It will be of 2.5 hours and will contain 5 questions.</li>
               <li>
-                The contest timing will be from 4pm to 6:30pm IST on 15-02-23.
+                The contest timing will be from 4pm to 6:30pm IST on 15-04-23.
               </li>
               <li>
                 Please sign up on Hackerrank.com before attempting the quiz.
@@ -92,7 +92,7 @@ const Home = () => {
             <li>You are required to make a unit Converter app</li>
               
                 <li>Task details can be found <a href="https://docs.google.com/document/d/18iWFae1967dux6tHVBjs5wmvMB6uzqnPx_mZ_mpUf2c/edit?usp=sharing" target="#"><span className="lalwa">here</span></a></li>
-                <li>The task deadline is 1pm IST on 16-02-2003</li>
+                <li>The task deadline is 1pm IST on 16-04-2023</li>
               
               <li>Task should be submitted below </li>
               
